@@ -1,5 +1,6 @@
 # Warning bot
 
+a Discord Webhook that sends information if a member of the faction gets attacked by enemies!
 
 ## Setup
 
