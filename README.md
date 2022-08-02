@@ -16,3 +16,5 @@ To start the program use a program thats called [PYCharm](https://www.jetbrains.
 ## Preview
 
 ![preview](preview.png "Preview")
+
+The spelling was fixed ^^
